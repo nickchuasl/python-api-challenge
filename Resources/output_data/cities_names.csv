@@ -1,0 +1,601 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Arima,Arima,10.6374,-61.2823,Trinidad And Tobago,TT,TTO,Arima,admin,,1780753308
+Shankou,Shankou,24.5032,116.4046,China,CN,CHN,Guangdong,,49896.0,1156084557
+Uraí,Urai,-23.1978,-50.7958,Brazil,BR,BRA,Paraná,,11472.0,1076009202
+Farmington,Farmington,44.6573,-93.1688,United States,US,USA,Minnesota,,23091.0,1840007853
+Tsetserleg,Tsetserleg,47.4769,101.4503,Mongolia,MN,MNG,Arhangay,admin,18519.0,1496397451
+Tona,Tona,7.2019,-72.9664,Colombia,CO,COL,Santander,minor,7239.0,1170034589
+Melrose,Melrose,42.4556,-71.059,United States,US,USA,Massachusetts,,28016.0,1840000432
+Visp,Visp,46.2922,7.8828,Switzerland,CH,CHE,Valais,,7891.0,1756588096
+Surat Thani,Surat Thani,9.1397,99.3306,Thailand,TH,THA,Surat Thani,admin,130703.0,1764338230
+Kupino,Kupino,54.3667,77.3,Russia,RU,RUS,Novosibirskaya Oblast’,,13777.0,1643059736
+El Salto,El Salto,23.7823,-105.3585,Mexico,MX,MEX,Durango,minor,24241.0,1484463833
+Glenville,Glenville,42.8869,-73.9925,United States,US,USA,New York,,29292.0,1840058129
+Mina Clavero,Mina Clavero,-31.7239,-65.005,Argentina,AR,ARG,Córdoba,,8487.0,1032241641
+Avola,Avola,36.9167,15.1333,Italy,IT,ITA,Sicilia,,31408.0,1380501928
+Saint-Nazaire,Saint-Nazaire,47.2806,-2.2086,France,FR,FRA,Pays de la Loire,minor,69993.0,1250133864
+Kumalarang,Kumalarang,7.75,123.15,Philippines,PH,PHL,Zamboanga del Sur,,28469.0,1608494719
+Seto,Seto,35.2167,137.0833,Japan,JP,JPN,Aichi,,127327.0,1392028874
+Salvaterra,Salvaterra,-0.7528,-48.5169,Brazil,BR,BRA,Pará,,24075.0,1076162949
+Jingping,Jingping,33.7844,104.3652,China,CN,CHN,Gansu,,5149.0,1156005145
+Hialeah,Hialeah,25.8696,-80.3046,United States,US,USA,Florida,,233339.0,1840015157
+Tiverton,Tiverton,41.6091,-71.1741,United States,US,USA,Rhode Island,,15774.0,1840066125
+Newstead,Newstead,43.0196,-78.5223,United States,US,USA,New York,,8675.0,1840087722
+Arad,Arad,31.2603,35.2147,Israel,IL,ISR,Southern,,24436.0,1376674296
+Rowlett,Rowlett,32.9157,-96.5488,United States,US,USA,Texas,,67339.0,1840020711
+Scott City,Scott City,37.2243,-89.536,United States,US,USA,Missouri,,5104.0,1840009923
+Vernouillet,Vernouillet,48.9722,1.9833,France,FR,FRA,Île-de-France,,10077.0,1250772966
+South Normanton,South Normanton,53.107,-1.343,United Kingdom,GB,GBR,Derbyshire,,9445.0,1826448406
+Juruá,Jurua,-3.4808,-66.0689,Brazil,BR,BRA,Amazonas,,13198.0,1076219164
+Sunnyvale,Sunnyvale,32.7974,-96.5577,United States,US,USA,Texas,,6841.0,1840023031
+Villanueva,Villanueva,6.6719,-73.1747,Colombia,CO,COL,Santander,minor,5443.0,1170278437
+Serebryansk,Serebryansk,49.6999,83.4249,Kazakhstan,KZ,KAZ,Shyghys Qazaqstan,,701.0,1398188434
+Manchester,Manchester,35.463,-86.0774,United States,US,USA,Tennessee,,12433.0,1840015409
+Elva,Elva,58.2275,26.4158,Estonia,EE,EST,Tartumaa,minor,5669.0,1233576584
+Wangjiabian,Wangjiabian,38.2412,110.2353,China,CN,CHN,Shaanxi,,11050.0,1156399638
+Ḩarastā,Harasta,33.5586,36.365,Syria,SY,SYR,Rīf Dimashq,minor,45974.0,1760273732
+Crystal Lake,Crystal Lake,28.0371,-81.9063,United States,US,USA,Florida,,6431.0,1840029030
+Jīroft,Jiroft,28.6781,57.7406,Iran,IR,IRN,Kermān,minor,130429.0,1364826721
+San Clemente,San Clemente,33.4498,-117.6103,United States,US,USA,California,,64558.0,1840021962
+Saint-Honoré,Saint-Honore,48.5333,-71.0833,Canada,CA,CAN,Quebec,,5257.0,1124504668
+Gazzo Veronese,Gazzo Veronese,45.15,11.0833,Italy,IT,ITA,Veneto,,5347.0,1380154816
+Highland Park,Highland Park,42.4052,-83.0977,United States,US,USA,Michigan,,10775.0,1840003982
+Leegebruch,Leegebruch,52.7167,13.2,Germany,DE,DEU,Brandenburg,,6870.0,1276907224
+Cruz Alta,Cruz Alta,-28.6386,-53.6064,Brazil,BR,BRA,Rio Grande do Sul,,62821.0,1076542905
+Swanwick,Swanwick,53.075,-1.398,United Kingdom,GB,GBR,Derbyshire,,5084.0,1826296193
+Vedra,Vedra,42.7833,-8.4667,Spain,ES,ESP,Galicia,,5007.0,1724137791
+Beroun,Beroun,49.9639,14.0721,Czechia,CZ,CZE,Středočeský Kraj,,19988.0,1203585066
+Guane,Guane,22.2006,-84.0839,Cuba,CU,CUB,Pinar del Río,,35718.0,1192395151
+Wistaston,Wistaston,53.0821,-2.4747,United Kingdom,GB,GBR,Cheshire East,,8117.0,1826133084
+Qaraçuxur,Qaracuxur,40.3969,49.9733,Azerbaijan,AZ,AZE,Bakı,,85900.0,1031616606
+Huntington Woods,Huntington Woods,42.4816,-83.1685,United States,US,USA,Michigan,,6265.0,1840002445
+Kearney,Kearney,39.355,-94.3598,United States,US,USA,Missouri,,10858.0,1840008501
+San Antonio de los Baños,San Antonio de los Banos,22.8889,-82.4989,Cuba,CU,CUB,Artemisa,minor,33811.0,1192374010
+Dubak,Dubak,18.1914,78.6783,India,IN,IND,Telangana,,12349.0,1356243033
+Santana do Acaraú,Santana do Acarau,-3.4608,-40.2119,Brazil,BR,BRA,Ceará,,29946.0,1076356639
+Trèbes,Trebes,43.2097,2.4414,France,FR,FRA,Occitanie,,5566.0,1250961814
+Hinojosa del Duque,Hinojosa del Duque,38.5,-5.1333,Spain,ES,ESP,Andalusia,,6707.0,1724357556
+Ban Wang Kalang,Ban Wang Kalang,15.1436,98.4498,Thailand,TH,THA,Kanchanaburi,,6877.0,1764955396
+Zemamra,Zemamra,32.6215,-8.7022,Morocco,MA,MAR,Casablanca-Settat,,13279.0,1504256384
+João Câmara,Joao Camara,-5.5378,-35.82,Brazil,BR,BRA,Rio Grande do Norte,,35160.0,1076573306
+Pöllau,Pollau,47.3019,15.8339,Austria,AT,AUT,Steiermark,,6054.0,1040332335
+Tubarão,Tubarao,-28.4669,-49.0069,Brazil,BR,BRA,Santa Catarina,,106422.0,1076663243
+Fondi,Fondi,41.35,13.4167,Italy,IT,ITA,Lazio,,39779.0,1380041713
+Eltham,Eltham,51.451,0.052,United Kingdom,GB,GBR,Greenwich,,48964.0,1826707596
+Tarnów,Tarnow,50.0125,20.9883,Poland,PL,POL,Małopolskie,minor,110956.0,1616375879
+Columbia Falls,Columbia Falls,48.3708,-114.1903,United States,US,USA,Montana,,7556.0,1840018351
+Svitlovodsk,Svitlovodsk,49.0833,33.25,Ukraine,UA,UKR,Kirovohrads’ka Oblast’,minor,45312.0,1804885566
+Union,Union,38.9472,-84.6731,United States,US,USA,Kentucky,,6034.0,1840015166
+Jarash,Jarash,32.2723,35.8914,Jordan,JO,JOR,Jarash,admin,50745.0,1400505859
+Nußloch,Nussloch,49.3236,8.6939,Germany,DE,DEU,Baden-Württemberg,,11325.0,1276967594
+Groveton,Groveton,38.7605,-77.098,United States,US,USA,Virginia,,16516.0,1840006029
+Čačak,Cacak,43.8914,20.3497,Serbia,RS,SRB,Čačak,admin,71883.0,1688216463
+Santa Clara,Santa Clara,22.4067,-79.9531,Cuba,CU,CUB,Villa Clara,admin,207963.0,1192329773
+Uitgeest,Uitgeest,52.5292,4.7103,Netherlands,NL,NLD,Noord-Holland,minor,13528.0,1528048993
+Tunis,Tunis,36.8008,10.18,Tunisia,TN,TUN,Tunis,primary,1056247.0,1788742103
+Kaga Bandoro,Kaga Bandoro,7.0006,19.1808,Central African Republic,CF,CAF,Nana-Grébizi,admin,24661.0,1140658026
+Cantel,Cantel,14.8112,-91.4555,Guatemala,GT,GTM,Quetzaltenango,minor,32221.0,1320112635
+Crigglestone,Crigglestone,53.644,-1.5226,United Kingdom,GB,GBR,Wakefield,,9271.0,1826293505
+Argao,Argao,9.8833,123.6,Philippines,PH,PHL,Cebu,minor,72366.0,1608797040
+Gasan,Gasan,13.3167,121.85,Philippines,PH,PHL,Marinduque,,34828.0,1608036488
+Kelso,Kelso,-33.4186,149.6056,Australia,AU,AUS,New South Wales,,8968.0,1036270756
+Härnösand,Harnosand,62.6323,17.9379,Sweden,SE,SWE,Västernorrland,admin,18502.0,1752644953
+Santa Teresita,Santa Teresita,13.8664,120.9814,Philippines,PH,PHL,Batangas,,21127.0,1608023323
+Bonares,Bonares,37.3167,-6.6667,Spain,ES,ESP,Andalusia,,6060.0,1724087017
+Úvaly,Uvaly,50.074,14.7309,Czechia,CZ,CZE,Středočeský Kraj,,7023.0,1203453685
+Coyhaique,Coyhaique,-45.5712,-72.0685,Chile,CL,CHL,Aysén,admin,61210.0,1152541137
+Putla Villa de Guerrero,Putla Villa de Guerrero,17.0321,-97.9293,Mexico,MX,MEX,Oaxaca,minor,32640.0,1484503444
+Sorisole,Sorisole,45.7375,9.6564,Italy,IT,ITA,Lombardy,,9042.0,1380705220
+Kumano,Kumano,33.8833,136.1,Japan,JP,JPN,Mie,,15806.0,1392123261
+Peñuelas,Penuelas,18.0595,-66.7206,Puerto Rico,PR,PRI,Puerto Rico,,5142.0,1630023556
+Allegan,Allegan,42.5299,-85.8462,United States,US,USA,Michigan,,6350.0,1840003114
+Masamagrell,Masamagrell,39.5703,-0.33,Spain,ES,ESP,Valencia,,16163.0,1724682871
+Amilly,Amilly,47.9731,2.7703,France,FR,FRA,Centre-Val de Loire,,13099.0,1250170473
+Rohatyn,Rohatyn,49.4167,24.6167,Ukraine,UA,UKR,Ivano-Frankivs’ka Oblast’,minor,7797.0,1804693643
+Rittman,Rittman,40.9736,-81.7849,United States,US,USA,Ohio,,6506.0,1840009372
+Bắc Giang,Bac Giang,21.2731,106.1947,Vietnam,VN,VNM,Bắc Giang,admin,53728.0,1704256754
+Peachtree Corners,Peachtree Corners,33.967,-84.2319,United States,US,USA,Georgia,,43905.0,1840029447
+Shiraoi,Shiraoi,42.55,141.35,Japan,JP,JPN,Hokkaidō,,16364.0,1392327130
+Plouguerneau,Plouguerneau,48.6058,-4.5042,France,FR,FRA,Bretagne,,6623.0,1250666794
+Bayabas,Bayabas,8.9667,126.2667,Philippines,PH,PHL,Surigao del Sur,,8164.0,1608996722
+Naranjal,Naranjal,-2.6736,-79.6183,Ecuador,EC,ECU,Guayas,,28487.0,1218900978
+Drvar,Drvar,44.3739,16.3808,Bosnia And Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",minor,7506.0,1070145657
+Halle,Halle,51.4828,11.9697,Germany,DE,DEU,Saxony-Anhalt,minor,239257.0,1276167077
+Kyustendil,Kyustendil,42.2811,22.6889,Bulgaria,BG,BGR,Kyustendil,admin,63359.0,1100543134
+Drăgăneşti-Olt,Draganesti-Olt,44.1697,24.53,Romania,RO,ROU,Olt,,10894.0,1642857216
+Angier,Angier,35.512,-78.7405,United States,US,USA,North Carolina,,5415.0,1840015423
+Gutalac,Gutalac,7.9833,122.4,Philippines,PH,PHL,Zamboanga del Norte,,34654.0,1608515089
+Sirsa,Sirsa,29.4904,75.03,India,IN,IND,Haryāna,,181639.0,1356966764
+Vynnyky,Vynnyky,49.8156,24.1297,Ukraine,UA,UKR,L’vivs’ka Oblast’,,15723.0,1804831750
+Paraíso do Sul,Paraiso do Sul,-29.7333,-53.1833,Brazil,BR,BRA,Rio Grande do Sul,,7336.0,1076624543
+Monticello,Monticello,40.0341,-88.5729,United States,US,USA,Illinois,,5534.0,1840008377
+Bedford Heights,Bedford Heights,41.4042,-81.5053,United States,US,USA,Ohio,,10460.0,1840003397
+Sainte-Julienne,Sainte-Julienne,45.97,-73.72,Canada,CA,CAN,Quebec,,9331.0,1124086540
+Aboisso,Aboisso,5.4667,-3.2,Côte D’Ivoire,CI,CIV,Comoé,minor,37654.0,1384385857
+Trujillo,Trujillo,15.9167,-86.0,Honduras,HN,HND,Colón,admin,30000.0,1340756106
+Cesenatico,Cesenatico,44.2012,12.4007,Italy,IT,ITA,Emilia-Romagna,,25959.0,1380296104
+San Juan Ixcoy,San Juan Ixcoy,15.6,-91.45,Guatemala,GT,GTM,Huehuetenango,minor,25846.0,1320110393
+Salem,Salem,39.5681,-75.4724,United States,US,USA,New Jersey,,5235.0,1840001529
+Laur,Laur,15.5833,121.1833,Philippines,PH,PHL,Nueva Ecija,,35656.0,1608394734
+San Sebastián de los Reyes,San Sebastian de los Reyes,40.5469,-3.6258,Spain,ES,ESP,Madrid,,91224.0,1724422840
+Antipolo,Antipolo,14.5842,121.1763,Philippines,PH,PHL,Rizal,admin,776386.0,1608824345
+Devon,Devon,53.3633,-113.7322,Canada,CA,CAN,Alberta,,6578.0,1124268366
+Tenafly,Tenafly,40.9175,-73.9531,United States,US,USA,New Jersey,,14453.0,1840000918
+Vanderbijlpark,Vanderbijlpark,-26.6992,27.8356,South Africa,ZA,ZAF,Gauteng,,95840.0,1710733212
+Zevenhuizen,Zevenhuizen,52.0108,4.58,Netherlands,NL,NLD,Zuid-Holland,,6414.0,1528538896
+Newton,Newton,35.663,-81.2333,United States,US,USA,North Carolina,,13177.0,1840014523
+Passa e Fica,Passa e Fica,-6.4358,-35.6428,Brazil,BR,BRA,Rio Grande do Norte,,13474.0,1076772213
+Portsmouth,Portsmouth,43.058,-70.7826,United States,US,USA,New Hampshire,,93069.0,1840002932
+Maranguape,Maranguape,-3.89,-38.6858,Brazil,BR,BRA,Ceará,,130346.0,1076845536
+Odiongan,Odiongan,12.4,122.0,Philippines,PH,PHL,Romblon,,45367.0,1608412988
+Rillieux-la-Pape,Rillieux-la-Pape,45.8214,4.8983,France,FR,FRA,Auvergne-Rhône-Alpes,,30012.0,1250128916
+Livry-Gargan,Livry-Gargan,48.9192,2.5361,France,FR,FRA,Île-de-France,,44437.0,1250653520
+New Kensington,New Kensington,40.5711,-79.7521,United States,US,USA,Pennsylvania,,12292.0,1840001151
+Southfield,Southfield,42.4765,-83.2605,United States,US,USA,Michigan,,72689.0,1840002431
+Annemasse,Annemasse,46.1958,6.2364,France,FR,FRA,Auvergne-Rhône-Alpes,,35712.0,1250122238
+Elizabethtown-Kitley,Elizabethtown-Kitley,44.7,-75.8833,Canada,CA,CAN,Ontario,,9854.0,1124001450
+Kenmore,Kenmore,42.9646,-78.8713,United States,US,USA,New York,,15020.0,1840004386
+Tank,Tank,32.2167,70.3833,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,44996.0,1586200762
+Rhoose,Rhoose,51.3906,-3.3524,United Kingdom,GB,GBR,"Vale of Glamorgan, The",,6160.0,1826678049
+Bor,Bor,37.8833,34.5667,Turkey,TR,TUR,Niğde,minor,60335.0,1792531194
+Rutherford,Rutherford,40.8203,-74.1057,United States,US,USA,New Jersey,,18303.0,1840000902
+Hamminkeln,Hamminkeln,51.7319,6.5908,Germany,DE,DEU,North Rhine-Westphalia,,26739.0,1276465671
+Gleno,Gleno,-8.7239,125.4361,Timor-Leste,TL,TLS,Ermera,admin,8133.0,1626143485
+Assebroek,Assebroek,51.1964,3.2536,Belgium,BE,BEL,Flanders,,19737.0,1056722855
+Cernay,Cernay,47.8067,7.1758,France,FR,FRA,Grand Est,,11326.0,1250545081
+Cavan Monaghan,Cavan Monaghan,44.2,-78.4667,Canada,CA,CAN,Ontario,,8829.0,1124001281
+Fraiburgo,Fraiburgo,-27.0258,-50.9208,Brazil,BR,BRA,Santa Catarina,,35942.0,1076662614
+Carmo do Rio Claro,Carmo do Rio Claro,-20.9731,-46.1189,Brazil,BR,BRA,Minas Gerais,,21268.0,1076819558
+Hancheng,Hancheng,35.4603,110.4292,China,CN,CHN,Shaanxi,,391164.0,1156265838
+Guadalupe y Calvo,Guadalupe y Calvo,26.095,-106.9644,Mexico,MX,MEX,Chihuahua,minor,5816.0,1484245253
+San Francisco,San Francisco,16.8017,-89.9342,Guatemala,GT,GTM,Petén,minor,47919.0,1320240607
+Squinzano,Squinzano,40.4333,18.05,Italy,IT,ITA,Puglia,,14031.0,1380933305
+Nezahualcóyotl,Nezahualcoyotl,19.4,-98.9889,Mexico,MX,MEX,México,minor,1110565.0,1484074285
+Uxbridge,Uxbridge,44.1167,-79.1333,Canada,CA,CAN,Ontario,,21176.0,1124829638
+Kluczbork,Kluczbork,50.9833,18.2167,Poland,PL,POL,Opolskie,minor,26164.0,1616259508
+Dongxing,Dongxing,21.5833,108.05,China,CN,CHN,Guangxi,,144709.0,1156419338
+La Guardia,La Guardia,41.9017,-8.8753,Spain,ES,ESP,Galicia,,10025.0,1724260235
+New London,New London,39.7743,-75.8797,United States,US,USA,Pennsylvania,,5946.0,1840151977
+Abdulino,Abdulino,53.6833,53.65,Russia,RU,RUS,Orenburgskaya Oblast’,,19222.0,1643685252
+San Marcos,San Marcos,8.6622,-75.1289,Colombia,CO,COL,Sucre,minor,59976.0,1170680965
+Moordrecht,Moordrecht,51.9861,4.6681,Netherlands,NL,NLD,Zuid-Holland,,7932.0,1528186306
+Valentigney,Valentigney,47.4625,6.8322,France,FR,FRA,Bourgogne-Franche-Comté,,10912.0,1250305919
+Cedar Hill,Cedar Hill,32.581,-96.9591,United States,US,USA,Texas,,47930.0,1840019433
+Goroka,Goroka,-6.0833,145.3833,Papua New Guinea,PG,PNG,Eastern Highlands,admin,21507.0,1598928169
+Wittenburg,Wittenburg,53.5,11.0667,Germany,DE,DEU,Mecklenburg-Western Pomerania,,6313.0,1276816280
+Mountain Home,Mountain Home,36.3348,-92.3846,United States,US,USA,Arkansas,,14317.0,1840014452
+Qinggang,Qinggang,46.69,126.1,China,CN,CHN,Heilongjiang,minor,64182.0,1156115921
+Crete,Crete,40.6254,-96.9575,United States,US,USA,Nebraska,,7007.0,1840007215
+Kitwe,Kitwe,-12.8208,28.2119,Zambia,ZM,ZMB,Copperbelt,,504194.0,1894321752
+Pascagoula,Pascagoula,30.3665,-88.5507,United States,US,USA,Mississippi,,48869.0,1840015018
+Monsenhor Paulo,Monsenhor Paulo,-21.7578,-45.5408,Brazil,BR,BRA,Minas Gerais,,8727.0,1076613023
+Cantù,Cantu,45.7333,9.1333,Italy,IT,ITA,Lombardy,,39932.0,1380683045
+Santa Vitória do Palmar,Santa Vitoria do Palmar,-33.5189,-53.3678,Brazil,BR,BRA,Rio Grande do Sul,,30990.0,1076114405
+Iziaslav,Iziaslav,50.1167,26.8,Ukraine,UA,UKR,Khmel’nyts’ka Oblast’,,16901.0,1804060657
+Gambēla,Gambela,8.25,34.5833,Ethiopia,ET,ETH,Gambēla Hizboch,admin,,1231698892
+Notre Dame,Notre Dame,41.7014,-86.2378,United States,US,USA,Indiana,,6646.0,1840039286
+Jockgrim,Jockgrim,49.095,8.2783,Germany,DE,DEU,Rhineland-Palatinate,,7471.0,1276002104
+Cologne,Cologne,50.9422,6.9578,Germany,DE,DEU,North Rhine-Westphalia,,1085664.0,1276015998
+Odenton,Odenton,39.0661,-76.6939,United States,US,USA,Maryland,,41846.0,1840005912
+Peto,Peto,20.1256,-88.9214,Mexico,MX,MEX,Yucatán,,19821.0,1484013411
+Graz,Graz,47.0749,15.4409,Austria,AT,AUT,Steiermark,admin,263234.0,1040184559
+Daimiel,Daimiel,39.0833,-3.6167,Spain,ES,ESP,Castille-La Mancha,,17916.0,1724840629
+Palauig,Palauig,15.4333,120.05,Philippines,PH,PHL,Zambales,,34947.0,1608524035
+Le Havre,Le Havre,49.49,0.1,France,FR,FRA,Normandie,minor,235218.0,1250775297
+Rothschild,Rothschild,44.8761,-89.6173,United States,US,USA,Wisconsin,,5267.0,1840002172
+Mengdan,Mengdan,24.2752,98.4672,China,CN,CHN,Yunnan,,25299.0,1156438926
+Arfoud,Arfoud,31.4361,-4.2328,Morocco,MA,MAR,Drâa-Tafilalet,,29279.0,1504190665
+Guabiruba,Guabiruba,-27.0858,-48.9808,Brazil,BR,BRA,Santa Catarina,,24382.0,1076001337
+Oberkochen,Oberkochen,48.7839,10.1053,Germany,DE,DEU,Baden-Württemberg,,7895.0,1276678198
+Ise,Ise,34.4833,136.7167,Japan,JP,JPN,Mie,,122432.0,1392000398
+Chanceford,Chanceford,39.8832,-76.4757,United States,US,USA,Pennsylvania,,6154.0,1840150918
+Losser,Losser,52.2617,7.0044,Netherlands,NL,NLD,Overijssel,minor,22622.0,1528246399
+Glenwood,Glenwood,41.5409,-87.6116,United States,US,USA,Illinois,,8715.0,1840011281
+L’Isle-Adam,L'Isle-Adam,49.1111,2.2228,France,FR,FRA,Île-de-France,,11986.0,1250488808
+Ocean City,Ocean City,39.2682,-74.6019,United States,US,USA,New Jersey,,10971.0,1840001598
+Pistoia,Pistoia,43.9333,10.9167,Italy,IT,ITA,Tuscany,minor,90195.0,1380664435
+Cabildo,Cabildo,-32.4267,-71.0664,Chile,CL,CHL,Valparaíso,,19388.0,1152995057
+Arnstadt,Arnstadt,50.8342,10.9464,Germany,DE,DEU,Thuringia,minor,27304.0,1276728389
+Herculândia,Herculandia,-22.0036,-50.3853,Brazil,BR,BRA,São Paulo,,9278.0,1076531050
+Zavodske,Zavodske,50.4002,33.3908,Ukraine,UA,UKR,Poltavs’ka Oblast’,,8180.0,1804705298
+Goffstown,Goffstown,43.019,-71.5681,United States,US,USA,New Hampshire,,18061.0,1840054900
+Herford,Herford,52.1146,8.6734,Germany,DE,DEU,North Rhine-Westphalia,minor,66608.0,1276588147
+Ifs,Ifs,49.1383,-0.3531,France,FR,FRA,Normandie,,11567.0,1250020337
+Ayutuxtepeque,Ayutuxtepeque,13.7357,-89.2008,El Salvador,SV,SLV,San Salvador,,34710.0,1222570043
+Mascara,Mascara,35.4,0.1333,Algeria,DZ,DZA,Mascara,admin,108587.0,1012738269
+Makhachkala,Makhachkala,42.9833,47.4833,Russia,RU,RUS,Dagestan,admin,592976.0,1643580480
+Glenarden,Glenarden,38.9293,-76.8577,United States,US,USA,Maryland,,6143.0,1840005973
+Piacatu,Piacatu,-21.5922,-50.5992,Brazil,BR,BRA,São Paulo,,5739.0,1076475752
+Juuka,Juuka,63.2417,29.25,Finland,FI,FIN,Pohjois-Karjala,minor,5034.0,1246570105
+Hāgere Hiywet,Hagere Hiywet,8.9833,37.85,Ethiopia,ET,ETH,Oromīya,,43920.0,1231809487
+Dunkerque,Dunkerque,51.0383,2.3775,France,FR,FRA,Hauts-de-France,minor,87353.0,1250542305
+Zhongcha,Zhongcha,33.2911,103.8735,China,CN,CHN,Sichuan,,6000.0,1156975486
+Baliza,Baliza,-16.1958,-52.545,Brazil,BR,BRA,Goiás,,5280.0,1076979350
+Camiri,Camiri,-20.1,-63.5333,Bolivia,BO,BOL,Santa Cruz,,33838.0,1068637731
+Beni Bou Yafroun,Beni Bou Yafroun,35.1536,-2.9861,Morocco,MA,MAR,Oriental,,6418.0,1504662210
+Arroio do Tigre,Arroio do Tigre,-29.3328,-53.0928,Brazil,BR,BRA,Rio Grande do Sul,,13413.0,1076835084
+Picuí,Picui,-6.555,-36.3489,Brazil,BR,BRA,Paraíba,,18670.0,1076876343
+Paredes,Paredes,41.2,-8.3333,Portugal,PT,PRT,Porto,minor,86854.0,1620650523
+Sultan Kudarat,Sultan Kudarat,7.2333,124.25,Philippines,PH,PHL,Maguindanao,,95201.0,1608836609
+Southport,Southport,-27.9667,153.4,Australia,AU,AUS,Queensland,,31908.0,1036417513
+Bor,Bor,44.1303,22.1036,Serbia,RS,SRB,Bor,admin,34159.0,1688966590
+Weinsberg,Weinsberg,49.1519,9.2858,Germany,DE,DEU,Baden-Württemberg,,12336.0,1276634003
+Laâyoune,Laayoune,27.15,-13.2,Morocco,MA,MAR,,,217732.0,1504000319
+Congers,Congers,41.1484,-73.9456,United States,US,USA,New York,,8406.0,1840004960
+Bethel,Bethel,39.8458,-75.4891,United States,US,USA,Pennsylvania,,9181.0,1840150552
+Itororó,Itororo,-15.1169,-40.07,Brazil,BR,BRA,Bahia,,21178.0,1076665799
+Mont-de-Marsan,Mont-de-Marsan,43.89,-0.5,France,FR,FRA,Nouvelle-Aquitaine,minor,29554.0,1250242566
+Cúa,Cua,10.1667,-66.8833,Venezuela,VE,VEN,Miranda,minor,214823.0,1862770169
+Durham,Durham,54.7761,-1.5733,United Kingdom,GB,GBR,Durham,,48069.0,1826031748
+Timizart,Timizart,36.8,4.2667,Algeria,DZ,DZA,Tizi Ouzou,,28996.0,1012767619
+Sankt Johann,Sankt Johann,48.4528,9.3431,Germany,DE,DEU,Baden-Württemberg,,5161.0,1276087708
+Lipa City,Lipa City,13.9411,121.1622,Philippines,PH,PHL,Batangas,,332386.0,1608615113
+Korhogo,Korhogo,9.4578,-5.6294,Côte D’Ivoire,CI,CIV,Savanes,admin,286071.0,1384205840
+Franklin Square,Franklin Square,40.7002,-73.6775,United States,US,USA,New York,,32055.0,1840005256
+Tiszalúc,Tiszaluc,48.0367,21.0629,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,,5064.0,1348086101
+Chicopee,Chicopee,42.1764,-72.5719,United States,US,USA,Massachusetts,,55126.0,1840000462
+Cantilan,Cantilan,9.3336,125.9775,Philippines,PH,PHL,Surigao del Sur,,31492.0,1608479522
+Guliston,Guliston,40.4833,68.7833,Uzbekistan,UZ,UZB,Sirdaryo,admin,55600.0,1860505287
+Libenge,Libenge,3.6604,18.62,Congo (Kinshasa),CD,COD,Sud-Ubangi,,27053.0,1180325896
+Macachín,Macachin,-37.1377,-63.662,Argentina,AR,ARG,La Pampa,minor,5465.0,1032767915
+Winooski,Winooski,44.4951,-73.1843,United States,US,USA,Vermont,,7333.0,1840002312
+Eden,Eden,42.6527,-78.8787,United States,US,USA,New York,,7631.0,1840058066
+Parma,Parma,44.8015,10.328,Italy,IT,ITA,Emilia-Romagna,minor,195687.0,1380655938
+South Bend,South Bend,41.6767,-86.2696,United States,US,USA,Indiana,,280498.0,1840009241
+Schweinfurt,Schweinfurt,50.05,10.2333,Germany,DE,DEU,Bavaria,,54032.0,1276316912
+Urbana,Urbana,39.3237,-77.3411,United States,US,USA,Maryland,,12587.0,1840024455
+Kibuye,Kibuye,-2.0594,29.3481,Rwanda,RW,RWA,Western Province,admin,12325.0,1646264461
+Ouirgane,Ouirgane,31.1755,-8.0782,Morocco,MA,MAR,Marrakech-Safi,,7727.0,1504309994
+Beining,Beining,41.5933,121.7932,China,CN,CHN,Liaoning,,514898.0,1156424678
+Casièr,Casier,45.6436,12.2953,Italy,IT,ITA,Veneto,,11412.0,1380873159
+Veurne,Veurne,51.0722,2.6622,Belgium,BE,BEL,Flanders,minor,11790.0,1056727573
+Bentiu,Bentiu,9.25,29.8,South Sudan,SS,SSD,Unity,admin,7781.0,1728684421
+Aknīste,Akniste,56.1622,25.7411,Latvia,LV,LVA,Aknīstes Novads,admin,1011.0,1428363907
+Bácsalmás,Bacsalmas,46.1239,19.3261,Hungary,HU,HUN,Bács-Kiskun,minor,6453.0,1348610453
+Sandown,Sandown,50.6551,-1.1541,United Kingdom,GB,GBR,Isle of Wight,,11868.0,1826580279
+Fox Chapel,Fox Chapel,40.5247,-79.8898,United States,US,USA,Pennsylvania,,5076.0,1840001197
+Burauen,Burauen,10.9833,124.9,Philippines,PH,PHL,Leyte,,52732.0,1608412407
+San Lorenzo,San Lorenzo,-25.3431,-57.5094,Paraguay,PY,PRY,Central,,258919.0,1600667303
+Bronte,Bronte,37.8,14.8333,Italy,IT,ITA,Sicilia,,18963.0,1380225642
+Xinhua,Xinhua,37.8286,102.5953,China,CN,CHN,Gansu,,18798.0,1156146089
+Bilovodsk,Bilovodsk,49.1992,39.5756,Ukraine,UA,UKR,Luhans’ka Oblast’,minor,12000.0,1804703237
+Covington,Covington,37.7785,-79.9868,United States,US,USA,Virginia,,7832.0,1840001688
+Kingston,Kingston,41.9295,-73.9968,United States,US,USA,New York,,54791.0,1840000493
+Garissa,Garissa,-0.4569,39.6583,Kenya,KE,KEN,Garissa,admin,65881.0,1404464692
+Colombelles,Colombelles,49.2042,-0.2972,France,FR,FRA,Normandie,,6941.0,1250406374
+Kouli Kouara,Kouli Kouara,13.8718,1.4867,Niger,NE,NER,Tillabéri,,5413.0,1562522869
+Baco,Baco,13.3584,121.0977,Philippines,PH,PHL,Oriental Mindoro,,37215.0,1608441009
+Heubach,Heubach,48.7833,9.9333,Germany,DE,DEU,Baden-Württemberg,,9774.0,1276568606
+Chipping Ongar,Chipping Ongar,51.703,0.244,United Kingdom,GB,GBR,Essex,,6093.0,1826697064
+Horstmar,Horstmar,52.0806,7.3083,Germany,DE,DEU,North Rhine-Westphalia,,6551.0,1276771431
+Kiryandongo,Kiryandongo,1.8763,32.0622,Uganda,UG,UGA,Kiryandongo,admin,,1800154303
+Boa Esperança,Boa Esperanca,-21.09,-45.5658,Brazil,BR,BRA,Minas Gerais,,40219.0,1076371124
+Friendly,Friendly,38.7601,-76.9642,United States,US,USA,Maryland,,10051.0,1840005954
+Šumperk,Sumperk,49.9653,16.9707,Czechia,CZ,CZE,Olomoucký Kraj,,25452.0,1203170809
+Chauvigny,Chauvigny,46.5686,0.6467,France,FR,FRA,Nouvelle-Aquitaine,,7045.0,1250042832
+Orestiáda,Orestiada,41.5,26.5333,Greece,GR,GRC,Anatolikí Makedonía kai Thráki,minor,18426.0,1300874812
+Garwolin,Garwolin,51.9,21.6167,Poland,PL,POL,Mazowieckie,minor,17602.0,1616433503
+Santiago Sacatepéquez,Santiago Sacatepequez,14.653,-90.6524,Guatemala,GT,GTM,Sacatepéquez,minor,30747.0,1320070166
+Lewisburg,Lewisburg,37.8096,-80.4327,United States,US,USA,West Virginia,,6917.0,1840006285
+Van Wert,Van Wert,40.865,-84.5879,United States,US,USA,Ohio,,10676.0,1840010350
+Catarina,Catarina,11.9119,-86.0751,Nicaragua,NI,NIC,Masaya,minor,7524.0,1558753959
+Kapalong,Kapalong,7.5854,125.7052,Philippines,PH,PHL,Davao del Norte,,76334.0,1608204911
+Tevragh Zeina,Tevragh Zeina,18.0989,-15.9885,Mauritania,MR,MRT,Nouakchott Ouest,admin,,1478902195
+Sault Ste. Marie,Sault Ste. Marie,46.4817,-84.3723,United States,US,USA,Michigan,,13420.0,1840003938
+Lupeni,Lupeni,45.3603,23.2383,Romania,RO,ROU,Hunedoara,,23390.0,1642534540
+Yauco,Yauco,18.0344,-66.8615,Puerto Rico,PR,PRI,Puerto Rico,,16585.0,1630035600
+Nappanee,Nappanee,41.4452,-85.9941,United States,US,USA,Indiana,,7139.0,1840008189
+Kirkcaldy,Kirkcaldy,56.1107,-3.1674,United Kingdom,GB,GBR,Fife,,50180.0,1826174957
+Burtonsville,Burtonsville,39.1166,-76.9356,United States,US,USA,Maryland,,9823.0,1840005827
+Lenexa,Lenexa,38.9609,-94.8018,United States,US,USA,Kansas,,55625.0,1840001639
+Bilāspur,Bilaspur,22.15,82.0167,India,IN,IND,Chhattīsgarh,,331030.0,1356820491
+Wittelsheim,Wittelsheim,47.8053,7.2375,France,FR,FRA,Grand Est,,10341.0,1250294605
+Uelen,Uelen,66.1667,-169.8167,Russia,RU,RUS,Chukotskiy Avtonomnyy Okrug,,632.0,1643387315
+Brejinho de Nazaré,Brejinho de Nazare,-11.0,-48.5658,Brazil,BR,BRA,Tocantins,,5519.0,1076155397
+Chikwawa,Chikwawa,-16.035,34.801,Malawi,MW,MWI,Chikwawa,admin,,1454343925
+La Laguna,La Laguna,28.4853,-16.3167,Spain,ES,ESP,Canary Islands,,158911.0,1724625025
+Baunatal,Baunatal,51.2589,9.4183,Germany,DE,DEU,Hesse,,27750.0,1276339266
+Al Fallūjah,Al Fallujah,33.35,43.7833,Iraq,IQ,IRQ,Al Anbār,minor,326471.0,1368081888
+North Valley,North Valley,35.1736,-106.6231,United States,US,USA,New Mexico,,13449.0,1840033721
+Nyanza,Nyanza,-2.3496,29.74,Rwanda,RW,RWA,Southern Province,admin,225209.0,1646257566
+Horgen,Horgen,47.2608,8.5975,Switzerland,CH,CHE,Zürich,,22662.0,1756066280
+Tangub,Tangub,8.0667,123.75,Philippines,PH,PHL,Misamis Occidental,,63011.0,1608158776
+Mingxing,Mingxing,37.4264,112.5679,China,CN,CHN,Shanxi,minor,82981.0,1156050784
+Zhangping,Zhangping,25.2938,117.4148,China,CN,CHN,Fujian,minor,242000.0,1156352113
+Araguari,Araguari,-18.6489,-48.1869,Brazil,BR,BRA,Minas Gerais,,117825.0,1076402865
+Kreuzau,Kreuzau,50.747,6.4907,Germany,DE,DEU,North Rhine-Westphalia,,17532.0,1276795378
+Willington,Willington,41.8896,-72.2593,United States,US,USA,Connecticut,,5893.0,1840045105
+Taizhou,Taizhou,28.6583,121.4221,China,CN,CHN,Zhejiang,minor,5968838.0,1156322307
+Mabini,Mabini,13.7167,120.9,Philippines,PH,PHL,Batangas,,46211.0,1608253644
+Salem,Salem,40.054,-111.672,United States,US,USA,Utah,,8621.0,1840021395
+Balykchy,Balykchy,42.4667,76.1833,Kyrgyzstan,KG,KGZ,Ysyk-Köl,,42380.0,1417967917
+Central de Minas,Central de Minas,-18.7619,-41.3058,Brazil,BR,BRA,Minas Gerais,,7046.0,1076221889
+Silver Hill,Silver Hill,38.8392,-76.9367,United States,US,USA,Maryland,,5120.0,1840024548
+El Realejo,El Realejo,12.5431,-87.1647,Nicaragua,NI,NIC,Chinandega,minor,10300.0,1558231692
+Oulu,Oulu,65.0142,25.4719,Finland,FI,FIN,Pohjois-Pohjanmaa,admin,200526.0,1246093273
+Tunapuna,Tunapuna,10.6333,-61.3833,Trinidad And Tobago,TT,TTO,Tunapuna/Piarco,admin,17650.0,1780508155
+Brynmawr,Brynmawr,51.796,-3.183,United Kingdom,GB,GBR,Blaenau Gwent,,5530.0,1826577496
+Kamennomostskoye,Kamennomostskoye,43.7336,43.0458,Russia,RU,RUS,Kabardino-Balkariya,,5760.0,1643918235
+Bilwi,Bilwi,14.05,-83.3833,Nicaragua,NI,NIC,Caribe Norte,admin,33600.0,1558656214
+Greenwich,Greenwich,40.6791,-75.1121,United States,US,USA,New Jersey,,5480.0,1840056372
+Rolle,Rolle,46.4575,6.3317,Switzerland,CH,CHE,Vaud,,6259.0,1756614612
+Cotabato,Cotabato,7.2167,124.25,Philippines,PH,PHL,Cotabato,admin,299438.0,1608753128
+Bayport,Bayport,40.746,-73.0546,United States,US,USA,New York,,8402.0,1840005018
+Elin Pelin,Elin Pelin,42.6689,23.6025,Bulgaria,BG,BGR,Sofia,,7189.0,1100619917
+Hokuto,Hokuto,41.8242,140.6528,Japan,JP,JPN,Hokkaidō,,45661.0,1392000277
+Pohořelice,Pohorelice,48.9812,16.5245,Czechia,CZ,CZE,Jihomoravský Kraj,,5251.0,1203487900
+Warrensburg,Warrensburg,38.7627,-93.726,United States,US,USA,Missouri,,22410.0,1840010721
+Lariano,Lariano,41.7333,12.8333,Italy,IT,ITA,Lazio,,13448.0,1380374934
+Puerto Colombia,Puerto Colombia,10.9922,-74.9528,Colombia,CO,COL,Atlántico,minor,26932.0,1170869718
+Sharypovo,Sharypovo,55.525,89.2,Russia,RU,RUS,Krasnoyarskiy Kray,,37136.0,1643451385
+Baabda,Baabda,33.8333,35.5333,Lebanon,LB,LBN,Mont-Liban,admin,9000.0,1422639397
+El Roble,El Roble,9.9771,-84.7443,Costa Rica,CR,CRI,Puntarenas,,15759.0,1188437917
+Ashqelon,Ashqelon,31.6658,34.5664,Israel,IL,ISR,Southern,,134454.0,1376324059
+San Miguelito,San Miguelito,9.05,-79.5,Panama,PA,PAN,Panamá,minor,315019.0,1591394184
+Ouricuri,Ouricuri,-7.8828,-40.0819,Brazil,BR,BRA,Pernambuco,,64358.0,1076194030
+Nicoadala,Nicoadala,-17.6077,36.8197,Mozambique,MZ,MOZ,Zambézia,,6945.0,1508484170
+Koforidua,Koforidua,6.1,-0.2667,Ghana,GH,GHA,Eastern,admin,127334.0,1288961962
+Coron,Coron,12.0,120.2,Philippines,PH,PHL,Palawan,,51803.0,1608577211
+Chigasaki,Chigasaki,35.3339,139.4047,Japan,JP,JPN,Kanagawa,,242347.0,1392346493
+Marco de Canavezes,Marco de Canavezes,41.1833,-8.15,Portugal,PT,PRT,Porto,minor,53450.0,1620534118
+Sibolga,Sibolga,1.7425,98.7792,Indonesia,ID,IDN,Sumatera Utara,,94971.0,1360021193
+Galleh Dār,Galleh Dar,27.6594,52.6575,Iran,IR,IRN,Fārs,,9982.0,1364264493
+Wendlingen am Neckar,Wendlingen am Neckar,48.6747,9.3817,Germany,DE,DEU,Baden-Württemberg,,16268.0,1276408904
+Satteldorf,Satteldorf,49.1681,10.0808,Germany,DE,DEU,Baden-Württemberg,,5564.0,1276001848
+Buc,Buc,48.7733,2.1253,France,FR,FRA,Île-de-France,,5858.0,1250952067
+Saugeen Shores,Saugeen Shores,44.4333,-81.3667,Canada,CA,CAN,Ontario,,13715.0,1124000488
+Gainsborough,Gainsborough,53.4016,-0.7732,United Kingdom,GB,GBR,Lincolnshire,,22841.0,1826888621
+Arneiroz,Arneiroz,-6.3239,-40.1608,Brazil,BR,BRA,Ceará,,7771.0,1076482813
+As Sulayyil,As Sulayyil,20.4623,45.5722,Saudi Arabia,SA,SAU,Ar Riyāḑ,,24097.0,1682960661
+Boothwyn,Boothwyn,39.8357,-75.4453,United States,US,USA,Pennsylvania,,6236.0,1840005548
+Miami Shores,Miami Shores,25.867,-80.1779,United States,US,USA,Florida,,10365.0,1840018334
+Eski Īkan,Eski Ikan,43.1833,68.5333,Kazakhstan,KZ,KAZ,Ongtüstik Qazaqstan,,14294.0,1398338734
+Spanish Fort,Spanish Fort,30.7257,-87.8601,United States,US,USA,Alabama,,9214.0,1840015879
+Yalta,Yalta,46.9667,37.2667,Ukraine,UA,UKR,Donets’ka Oblast’,,5159.0,1804774830
+Ḩisyā’,Hisya',34.4108,36.7586,Syria,SY,SYR,Ḩimş,minor,5435.0,1760229953
+DeKalb,DeKalb,41.9313,-88.7482,United States,US,USA,Illinois,,66959.0,1840007033
+Dubrovnik,Dubrovnik,42.6403,18.1083,Croatia,HR,HRV,Dubrovačko-Neretvanska Županija,admin,42615.0,1191004286
+Itoigawa,Itoigawa,37.0333,137.85,Japan,JP,JPN,Niigata,,40200.0,1392314083
+Santa Ana,Santa Ana,9.3194,-74.5706,Colombia,CO,COL,Magdalena,minor,25938.0,1170325175
+Groß-Zimmern,Gross-Zimmern,49.8726,8.8343,Germany,DE,DEU,Hesse,,14564.0,1276589803
+Rosdorf,Rosdorf,51.5,9.9,Germany,DE,DEU,Lower Saxony,,11949.0,1276587321
+Jardim Alegre,Jardim Alegre,-24.1789,-51.6919,Brazil,BR,BRA,Paraná,,12324.0,1076799071
+Aqsū,Aqsu,52.0333,76.9167,Kazakhstan,KZ,KAZ,Pavlodar,,69354.0,1398272761
+Upper Arlington,Upper Arlington,40.0272,-83.0704,United States,US,USA,Ohio,,35366.0,1840003762
+Mimizan,Mimizan,44.2008,-1.2286,France,FR,FRA,Nouvelle-Aquitaine,,7137.0,1250413771
+Prabuty,Prabuty,53.7558,19.1975,Poland,PL,POL,Pomorskie,,8215.0,1616481359
+Melilli,Melilli,37.1833,15.1167,Italy,IT,ITA,Sicilia,,13519.0,1380628157
+Esquipulas,Esquipulas,14.6167,-89.2,Guatemala,GT,GTM,Chiquimula,minor,65000.0,1320011938
+Haslett,Haslett,42.7525,-84.402,United States,US,USA,Michigan,,19565.0,1840004500
+Junín,Junin,-34.5939,-60.9464,Argentina,AR,ARG,Buenos Aires,minor,85007.0,1032976047
+Pezinok,Pezinok,48.2667,17.2667,Slovakia,SK,SVK,Bratislavský,minor,22861.0,1703456673
+Jales,Jales,-20.2689,-50.5458,Brazil,BR,BRA,São Paulo,,48922.0,1076132660
+Lgov,Lgov,51.6667,35.2667,Russia,RU,RUS,Kurskaya Oblast’,,18774.0,1643991928
+Macaíba,Macaiba,-5.8578,-35.3539,Brazil,BR,BRA,Rio Grande do Norte,,81821.0,1076176042
+Kenge,Kenge,-4.8296,16.8999,Congo (Kinshasa),CD,COD,Kwango,admin,241.0,1180158365
+Ilfracombe,Ilfracombe,51.208,-4.12,United Kingdom,GB,GBR,Devon,,11184.0,1826182553
+Ban Tai,Ban Tai,17.4333,103.4051,Thailand,TH,THA,Sakon Nakhon,,6483.0,1764145611
+West Valley City,West Valley City,40.6889,-112.0115,United States,US,USA,Utah,,135248.0,1840021389
+Rovigo,Rovigo,45.0809,11.794,Italy,IT,ITA,Veneto,minor,51149.0,1380037431
+Neuville-lès-Dieppe,Neuville-les-Dieppe,49.9267,1.1014,France,FR,FRA,Normandie,,9616.0,1250261839
+Elk Grove,Elk Grove,38.416,-121.3842,United States,US,USA,California,,174775.0,1840020245
+Missour,Missour,33.05,-3.9908,Morocco,MA,MAR,Fès-Meknès,,25584.0,1504694053
+Chambourcy,Chambourcy,48.9061,2.0403,France,FR,FRA,Île-de-France,,5607.0,1250691705
+Saint-Thibault-des-Vignes,Saint-Thibault-des-Vignes,48.8692,2.6886,France,FR,FRA,Île-de-France,,6400.0,1250070347
+Shilka,Shilka,51.85,116.0333,Russia,RU,RUS,Zabaykal’skiy Kray,,12663.0,1643938937
+Pomona,Pomona,39.4687,-74.5501,United States,US,USA,New Jersey,,7363.0,1840005596
+Decimomannu,Decimomannu,39.3112,8.9703,Italy,IT,ITA,Sardegna,,8234.0,1380640999
+Orange Cove,Orange Cove,36.6211,-119.3188,United States,US,USA,California,,11059.0,1840020322
+El Rio,El Rio,34.2452,-119.1568,United States,US,USA,California,,6297.0,1840017913
+Middlesex Centre,Middlesex Centre,43.05,-81.45,Canada,CA,CAN,Ontario,,17262.0,1124001841
+Korolëv,Korolev,55.9167,37.8167,Russia,RU,RUS,Moskovskaya Oblast’,,221797.0,1643323167
+Centerville,Centerville,40.7294,-92.8718,United States,US,USA,Iowa,,5445.0,1840001006
+Yoshkar-Ola,Yoshkar-Ola,56.6328,47.8958,Russia,RU,RUS,Mariy-El,admin,266675.0,1643701904
+Lake Zurich,Lake Zurich,42.1955,-88.087,United States,US,USA,Illinois,,19877.0,1840011160
+Drexel Hill,Drexel Hill,39.9495,-75.3039,United States,US,USA,Pennsylvania,,27939.0,1840005550
+Chichimila,Chichimila,20.6308,-88.2172,Mexico,MX,MEX,Yucatán,,5528.0,1484055870
+El Colegio,El Colegio,4.5808,-74.4425,Colombia,CO,COL,Cundinamarca,minor,22247.0,1170000628
+Alpinópolis,Alpinopolis,-20.8639,-46.3878,Brazil,BR,BRA,Minas Gerais,,19958.0,1076981643
+Camarillo,Camarillo,34.223,-119.0322,United States,US,USA,California,,76931.0,1840019201
+Castelnuovo Berardenga,Castelnuovo Berardenga,43.3472,11.5042,Italy,IT,ITA,Tuscany,,9086.0,1380912826
+Saint-Dizier,Saint-Dizier,48.6383,4.9497,France,FR,FRA,Grand Est,minor,26300.0,1250642464
+Ceyrat,Ceyrat,45.7328,3.0633,France,FR,FRA,Auvergne-Rhône-Alpes,,6390.0,1250352348
+Fundeni,Fundeni,44.3833,26.3667,Romania,RO,ROU,Călăraşi,,5658.0,1642174720
+Cowdenbeath,Cowdenbeath,56.11,-3.35,United Kingdom,GB,GBR,Fife,,14081.0,1826932190
+Urucuia,Urucuia,-16.1328,-45.7419,Brazil,BR,BRA,Minas Gerais,,17173.0,1076674277
+Poté,Pote,-17.8069,-41.7858,Brazil,BR,BRA,Minas Gerais,,16616.0,1076639035
+La Ferté-sous-Jouarre,La Ferte-sous-Jouarre,48.9492,3.1294,France,FR,FRA,Île-de-France,,9586.0,1250168754
+Lebanon,Lebanon,41.6313,-72.2402,United States,US,USA,Connecticut,,7215.0,1840035207
+Regente Feijó,Regente Feijo,-22.2208,-51.3028,Brazil,BR,BRA,São Paulo,,19733.0,1076508194
+Andria,Andria,41.2317,16.3083,Italy,IT,ITA,Puglia,minor,99857.0,1380463498
+Tiquipaya,Tiquipaya,-17.3381,-66.2189,Bolivia,BO,BOL,Cochabamba,,31264.0,1068863881
+Itaú,Itau,-5.84,-37.9928,Brazil,BR,BRA,Rio Grande do Norte,,5897.0,1076478845
+Granger,Granger,41.7373,-86.135,United States,US,USA,Indiana,,30776.0,1840030079
+Lindau,Lindau,47.5458,9.6839,Germany,DE,DEU,Bavaria,,25490.0,1276918139
+Newtown,Newtown,52.5132,-3.3141,United Kingdom,GB,GBR,Powys,,11357.0,1826506895
+Brattleboro,Brattleboro,42.8618,-72.6145,United States,US,USA,Vermont,,11524.0,1840070391
+Sury-le-Comtal,Sury-le-Comtal,45.5375,4.1831,France,FR,FRA,Auvergne-Rhône-Alpes,,6612.0,1250860586
+Wabash,Wabash,40.8034,-85.8301,United States,US,USA,Indiana,,9941.0,1840010335
+Fushë-Krujë,Fushe-Kruje,41.4833,19.7167,Albania,AL,ALB,Durrës,,18477.0,1008652935
+Tséri,Tseri,35.0725,33.3243,Cyprus,CY,CYP,Lefkosía,,7035.0,1196695842
+Macclesfield,Macclesfield,53.2581,-2.1274,United Kingdom,GB,GBR,Cheshire East,,51482.0,1826522277
+Lawrence,Lawrence,40.2954,-74.7205,United States,US,USA,New Jersey,,32614.0,1840056345
+Verona,Verona,45.4386,10.9928,Italy,IT,ITA,Veneto,minor,257275.0,1380324879
+Unterpremstätten,Unterpremstatten,46.9647,15.4042,Austria,AT,AUT,Steiermark,,6068.0,1040877086
+Laoac East,Laoac East,16.0333,120.55,Philippines,PH,PHL,Pangasinan,,31497.0,1608510641
+Ćuprija,Cuprija,43.9231,21.3686,Serbia,RS,SRB,Ćuprija,admin,20585.0,1688642855
+Ferry Pass,Ferry Pass,30.5203,-87.1903,United States,US,USA,Florida,,32376.0,1840013909
+Ceiba,Ceiba,18.265,-65.6488,Puerto Rico,PR,PRI,Puerto Rico,,5551.0,1630035643
+Dunaújváros,Dunaujvaros,46.9833,18.9167,Hungary,HU,HUN,Dunaújváros,admin,44200.0,1348928583
+Green,Green,43.1509,-123.3854,United States,US,USA,Oregon,,7985.0,1840017439
+Manzanares el Real,Manzanares el Real,40.7272,-3.8611,Spain,ES,ESP,Madrid,,8936.0,1724862463
+Ciudad de Ceuta,Ciudad de Ceuta,35.8867,-5.3,Spain,ES,ESP,Ceuta,,84202.0,1724324416
+Turvo,Turvo,-28.9258,-49.6789,Brazil,BR,BRA,Santa Catarina,,12990.0,1076843922
+Moncada,Moncada,41.4867,2.1879,Spain,ES,ESP,Catalonia,,36803.0,1724353233
+Acevedo,Acevedo,1.8047,-75.8897,Colombia,CO,COL,Huila,minor,39877.0,1170946838
+Chegga,Chegga,25.3719,-5.7867,Mauritania,MR,MRT,Tiris Zemmour,,10.0,1478632134
+Bamban,Bamban,15.65,120.25,Philippines,PH,PHL,Tarlac,,69466.0,1608680907
+Hobe Sound,Hobe Sound,27.0729,-80.1425,United States,US,USA,Florida,,14003.0,1840014188
+Lake Shore,Lake Shore,45.6911,-122.6911,United States,US,USA,Washington,,7599.0,1840037873
+Spinetoli,Spinetoli,42.8887,13.7731,Italy,IT,ITA,Marche,,7132.0,1380655751
+Moyeuvre-Grande,Moyeuvre-Grande,49.2528,6.0458,France,FR,FRA,Grand Est,,7662.0,1250235688
+Woods Cross,Woods Cross,40.8731,-111.917,United States,US,USA,Utah,,11431.0,1840021355
+Laukaa,Laukaa,62.4167,25.95,Finland,FI,FIN,Keski-Suomi,minor,18865.0,1246056174
+Kurort Steinbach-Hallenberg,Kurort Steinbach-Hallenberg,50.7006,10.5667,Germany,DE,DEU,Thuringia,,9681.0,1276381862
+Oschersleben,Oschersleben,52.0167,11.25,Germany,DE,DEU,Saxony-Anhalt,,19630.0,1276686337
+Gorna Oryahovitsa,Gorna Oryahovitsa,43.1222,25.6897,Bulgaria,BG,BGR,Veliko Tarnovo,,35031.0,1100589506
+Naga City,Naga City,13.6167,123.1667,Philippines,PH,PHL,Naga,admin,196003.0,1608775993
+Eijsden,Eijsden,50.7778,5.7108,Netherlands,NL,NLD,Limburg,minor,11565.0,1528761006
+Accra,Accra,5.6037,-0.187,Ghana,GH,GHA,Greater Accra,primary,2291352.0,1288299415
+Safi,Safi,35.8333,14.485,Malta,MT,MLT,Safi,admin,2126.0,1470417421
+Brotas de Macaúbas,Brotas de Macaubas,-11.9989,-42.6258,Brazil,BR,BRA,Bahia,,11070.0,1076204887
+La Jagua de Ibirico,La Jagua de Ibirico,9.5611,-73.3364,Colombia,CO,COL,Cesar,minor,22405.0,1170526836
+Loja,Loja,37.1667,-4.15,Spain,ES,ESP,Andalusia,,20419.0,1724466102
+Dragash,Dragash,42.0611,20.6528,Kosovo,XK,XKS,Dragash,admin,34827.0,1901112530
+Santana de Mangueira,Santana de Mangueira,-7.555,-38.3319,Brazil,BR,BRA,Paraíba,,5223.0,1076302187
+Lalla Takerkoust,Lalla Takerkoust,31.3669,-8.1331,Morocco,MA,MAR,Marrakech-Safi,,7311.0,1504317669
+Cowley,Cowley,51.528,-0.481,United Kingdom,GB,GBR,Hillingdon,,8776.0,1826903011
+Terryville,Terryville,40.909,-73.0492,United States,US,USA,New York,,12764.0,1840005105
+São Carlos do Ivaí,Sao Carlos do Ivai,-23.315,-52.4758,Brazil,BR,BRA,Paraná,,6920.0,1076518671
+Třebíč,Trebic,49.215,15.8817,Czechia,CZ,CZE,Vysočina,,35107.0,1203437113
+Câmara de Lobos,Camara de Lobos,32.65,-16.9667,Portugal,PT,PRT,Madeira,,35666.0,1620560549
+Doué-la-Fontaine,Doue-la-Fontaine,47.1931,-0.2756,France,FR,FRA,Pays de la Loire,,7686.0,1250460103
+Oğuz,Oguz,41.0714,47.4653,Azerbaijan,AZ,AZE,Oğuz,admin,7400.0,1031370337
+Boudinar,Boudinar,35.2001,-3.6429,Morocco,MA,MAR,Oriental,,9863.0,1504277185
+Mansfield,Mansfield,40.0854,-74.7149,United States,US,USA,New Jersey,,8533.0,1840081639
+North Scituate,North Scituate,42.2121,-70.7652,United States,US,USA,Massachusetts,,5044.0,1840004680
+Flores de Goiás,Flores de Goias,-14.4489,-47.05,Brazil,BR,BRA,Goiás,,12066.0,1076339053
+Petilia Policastro,Petilia Policastro,39.1167,16.7833,Italy,IT,ITA,Calabria,,9073.0,1380377680
+Axel,Axel,51.2656,3.9089,Netherlands,NL,NLD,Zeeland,,12280.0,1528505880
+Acapulco de Juárez,Acapulco de Juarez,16.8636,-99.8825,Mexico,MX,MEX,Guerrero,minor,687608.0,1484463183
+Brasileira,Brasileira,-4.1308,-41.7819,Brazil,BR,BRA,Piauí,,8347.0,1076916688
+Băicoi,Baicoi,45.0453,25.8658,Romania,RO,ROU,Prahova,,17981.0,1642646801
+Brokopondo,Brokopondo,5.0404,-55.02,Suriname,SR,SUR,Brokopondo,admin,8340.0,1740558611
+Laibin,Laibin,23.7333,109.2333,China,CN,CHN,Guangxi,,2099711.0,1156925734
+Mondeville,Mondeville,49.1739,-0.3211,France,FR,FRA,Normandie,,9893.0,1250124889
+Schipluiden,Schipluiden,51.9833,4.3167,Netherlands,NL,NLD,Zuid-Holland,minor,11113.0,1528297735
+Revel,Revel,43.4586,2.0042,France,FR,FRA,Occitanie,,9610.0,1250490543
+Rheinbach,Rheinbach,50.6256,6.9491,Germany,DE,DEU,North Rhine-Westphalia,,27063.0,1276000657
+Mansfield Center,Mansfield Center,42.0225,-71.218,United States,US,USA,Massachusetts,,7905.0,1840073506
+Rutana,Rutana,-3.9236,30.0061,Burundi,BI,BDI,Rutana,admin,5865.0,1108441253
+Jalal-Abad,Jalal-Abad,40.9375,72.9861,Kyrgyzstan,KG,KGZ,Jalal-Abad,admin,89004.0,1417653652
+Pike Road,Pike Road,32.2934,-86.0902,United States,US,USA,Alabama,,10159.0,1840017000
+Itapiranga,Itapiranga,-2.7489,-58.0219,Brazil,BR,BRA,Amazonas,,8953.0,1076151617
+Churumuco de Morelos,Churumuco de Morelos,18.6167,-101.6333,Mexico,MX,MEX,Michoacán de Ocampo,minor,15455.0,1484004930
+Fremont,Fremont,41.3536,-83.1148,United States,US,USA,Ohio,,22191.0,1840000653
+Vratsa,Vratsa,43.2121,23.5444,Bulgaria,BG,BGR,Vratsa,admin,69493.0,1100261281
+Lessines,Lessines,50.7117,3.83,Belgium,BE,BEL,Wallonia,,18552.0,1056283764
+Westbury,Westbury,51.26,-2.191,United Kingdom,GB,GBR,Wiltshire,,16989.0,1826000067
+Alsbach-Hähnlein,Alsbach-Hahnlein,49.7413,8.6225,Germany,DE,DEU,Hesse,,9146.0,1276622371
+Montanhas,Montanhas,-6.4858,-35.2878,Brazil,BR,BRA,Rio Grande do Norte,,11413.0,1076024908
+Kabul,Kabul,34.5328,69.1658,Afghanistan,AF,AFG,Kābul,primary,3678034.0,1004993580
+Guilderland,Guilderland,42.708,-73.9631,United States,US,USA,New York,,35696.0,1840058149
+Bäretswil,Baretswil,47.3369,8.8575,Switzerland,CH,CHE,Zürich,,5026.0,1756809344
+Buenavista,Buenavista,8.2233,-75.4817,Colombia,CO,COL,Córdoba,minor,22711.0,1170230620
+St. Clair,St. Clair,42.7833,-82.35,Canada,CA,CAN,Ontario,,14086.0,1124000228
+Cajicá,Cajica,4.9167,-74.025,Colombia,CO,COL,Cundinamarca,minor,61549.0,1170852541
+Raymond,Raymond,43.0322,-71.1994,United States,US,USA,New Hampshire,,10428.0,1840055480
+Polatsk,Polatsk,55.4833,28.8,Belarus,BY,BLR,Vitsyebskaya Voblasts’,minor,80795.0,1112068992
+Princesa Isabel,Princesa Isabel,-7.7369,-37.9928,Brazil,BR,BRA,Paraíba,,22995.0,1076459483
+Jerseyville,Jerseyville,39.1175,-90.3271,United States,US,USA,Illinois,,8708.0,1840008530
+Paiporta,Paiporta,39.4278,-0.4183,Spain,ES,ESP,Valencia,,26514.0,1724055183
+Great Missenden,Great Missenden,51.7042,-0.7078,United Kingdom,GB,GBR,Buckinghamshire,,10138.0,1826171263
+Longtaixiang,Longtaixiang,34.5988,104.8963,China,CN,CHN,Gansu,,11063.0,1156139417
+Sauvian,Sauvian,43.2919,3.2606,France,FR,FRA,Occitanie,,5419.0,1250892114
+Davlekanovo,Davlekanovo,54.2167,55.0333,Russia,RU,RUS,Bashkortostan,,23499.0,1643452201
+Charleston,Charleston,32.8153,-79.9628,United States,US,USA,South Carolina,,628377.0,1840015163
+Ipirá,Ipira,-12.1578,-39.7369,Brazil,BR,BRA,Bahia,,62095.0,1076297000
+Worcester,Worcester,40.1899,-75.3522,United States,US,USA,Pennsylvania,,10406.0,1840035368
+Itueta,Itueta,-19.3939,-41.17,Brazil,BR,BRA,Minas Gerais,,6063.0,1076192173
+Castelverde,Castelverde,45.1875,9.9969,Italy,IT,ITA,Lombardy,,5685.0,1380156754
+Eugenópolis,Eugenopolis,-21.0989,-42.1869,Brazil,BR,BRA,Minas Gerais,,11330.0,1076538883
+Nava,Nava,28.4214,-100.7675,Mexico,MX,MEX,Coahuila de Zaragoza,minor,22192.0,1484120104
+Trent Lakes,Trent Lakes,44.6667,-78.4333,Canada,CA,CAN,Ontario,,5397.0,1124001268
+Labin,Labin,45.0833,14.1167,Croatia,HR,HRV,Istarska Županija,minor,11642.0,1191000718
+Kaabong,Kaabong,3.5204,34.12,Uganda,UG,UGA,Kaabong,admin,1137.0,1800299361
+Itagüí,Itagui,6.1726,-75.6096,Colombia,CO,COL,Antioquia,minor,235016.0,1170708072
+New Bedford,New Bedford,41.6697,-70.9428,United States,US,USA,Massachusetts,,149910.0,1840003219
+Tacoma,Tacoma,47.2431,-122.4531,United States,US,USA,Washington,,217827.0,1840021129
+Most,Most,50.5031,13.6367,Czechia,CZ,CZE,Ústecký Kraj,,65341.0,1203813984
+Edwardsville,Edwardsville,38.7923,-89.9877,United States,US,USA,Illinois,,25233.0,1840008564
+Kuurne,Kuurne,50.8519,3.2861,Belgium,BE,BEL,Flanders,,13318.0,1056459162
+Evans,Evans,40.366,-104.7389,United States,US,USA,Colorado,,21205.0,1840020147
+Roxboro,Roxboro,36.3879,-78.9812,United States,US,USA,North Carolina,,9599.0,1840014432
+Hammonton,Hammonton,39.6572,-74.7678,United States,US,USA,New Jersey,,13934.0,1840003800
+Sorocaba,Sorocaba,-23.5019,-47.4578,Brazil,BR,BRA,São Paulo,,644919.0,1076758708
+Maquoketa,Maquoketa,42.0598,-90.6651,United States,US,USA,Iowa,,6007.0,1840009137
+Terra Roxa d’Oeste,Terra Roxa d'Oeste,-24.1569,-54.0969,Brazil,BR,BRA,Paraná,,17522.0,1076869704
+Anna Regina,Anna Regina,7.25,-58.5167,Guyana,GY,GUY,Pomeroon-Supenaam,,12448.0,1328787362
+Lynchburg,Lynchburg,37.4003,-79.1909,United States,US,USA,Virginia,,126814.0,1840003855
+Novo Aripuanã,Novo Aripuana,-5.1214,-60.3806,Brazil,BR,BRA,Amazonas,,24315.0,1076527890
+Knyaginino,Knyaginino,55.8167,45.0333,Russia,RU,RUS,Nizhegorodskaya Oblast’,,6804.0,1643925479
+Phichit,Phichit,16.4431,100.3467,Thailand,TH,THA,Phichit,admin,22299.0,1764024236
+Menemen,Menemen,38.6,27.0667,Turkey,TR,TUR,İzmir,minor,174564.0,1792699814
+Nailsea,Nailsea,51.43,-2.76,United Kingdom,GB,GBR,North Somerset,,15630.0,1826659439
+Cootamundra,Cootamundra,-34.6483,148.0344,Australia,AU,AUS,New South Wales,,6782.0,1036618399
+Berlare,Berlare,51.025,4.0025,Belgium,BE,BEL,Flanders,,14849.0,1056435659
+Kirovsk,Kirovsk,67.6142,33.6717,Russia,RU,RUS,Murmanskaya Oblast’,,26581.0,1643433043
+Lynwood,Lynwood,33.924,-118.2017,United States,US,USA,California,,69887.0,1840020492
+Müncheberg,Muncheberg,52.5036,14.1397,Germany,DE,DEU,Brandenburg,,6870.0,1276376107
+Alberique,Alberique,39.1167,-0.5211,Spain,ES,ESP,Valencia,,10519.0,1724900545
+Magdalena,Magdalena,20.9092,-103.9803,Mexico,MX,MEX,Jalisco,minor,22643.0,1484476169
+Skidal’,Skidal',53.5833,24.25,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,,10168.0,1112017248
+Warren,Warren,40.6323,-74.5146,United States,US,USA,New Jersey,,15720.0,1840081703
+Ospedaletto Euganeo,Ospedaletto Euganeo,45.2231,11.6111,Italy,IT,ITA,Veneto,,5651.0,1380008629
+Teays Valley,Teays Valley,38.4482,-81.924,United States,US,USA,West Virginia,,13866.0,1840038312
+Sedgley,Sedgley,52.54,-2.123,United Kingdom,GB,GBR,Dudley,,12087.0,1826101730
+Jiujiang,Jiujiang,29.7048,116.0021,China,CN,CHN,Jiangxi,minor,4728778.0,1156206041
+Monteux,Monteux,44.0356,4.9972,France,FR,FRA,Provence-Alpes-Côte d’Azur,,12875.0,1250058114
+Lauda-Königshofen,Lauda-Konigshofen,49.5686,9.7039,Germany,DE,DEU,Baden-Württemberg,,14542.0,1276018769
+Middletown,Middletown,38.241,-85.5215,United States,US,USA,Kentucky,,7877.0,1840014295
+Darien,Darien,41.0786,-73.4819,United States,US,USA,Connecticut,,21742.0,1840034409
+Konotop,Konotop,51.2369,33.2027,Ukraine,UA,UKR,Sums’ka Oblast’,minor,103547.0,1804110853
+Omer,Omer,31.2683,34.8489,Israel,IL,ISR,Southern,,7339.0,1376441239
+Céret,Ceret,42.4881,2.7514,France,FR,FRA,Occitanie,minor,7821.0,1250219457
+Jining,Jining,41.03,113.08,China,CN,CHN,Inner Mongolia,,281716.0,1156261326
+Ramillies-Offus,Ramillies-Offus,50.6333,4.9,Belgium,BE,BEL,Wallonia,,6394.0,1056601478
+Fiesso d’Artico,Fiesso d'Artico,45.4167,12.0333,Italy,IT,ITA,Veneto,,8341.0,1380559969
+Preetz,Preetz,54.2367,10.2822,Germany,DE,DEU,Schleswig-Holstein,,15958.0,1276274661
+Rafael Fernandes,Rafael Fernandes,-6.195,-38.2258,Brazil,BR,BRA,Rio Grande do Norte,,5128.0,1076744804
+Wiefelstede,Wiefelstede,53.2581,8.1172,Germany,DE,DEU,Lower Saxony,,16031.0,1276114167
+Perdões,Perdoes,-21.0908,-45.0908,Brazil,BR,BRA,Minas Gerais,,21485.0,1076957512
+Rainbow City,Rainbow City,33.9337,-86.0922,United States,US,USA,Alabama,,9611.0,1840014732
+Hampton,Hampton,40.5844,-79.9534,United States,US,USA,Pennsylvania,,18282.0,1840147156
+Tweed,Tweed,44.6,-77.3333,Canada,CA,CAN,Ontario,,6044.0,1124220211
+Boxmeer,Boxmeer,51.6483,5.9444,Netherlands,NL,NLD,Noord-Brabant,minor,29065.0,1528624004
+Tiyerbes,Tiyerbes,64.3728,120.549,Russia,RU,RUS,Sakha (Yakutiya),,10.0,1643794725
+Darlington,Darlington,34.3015,-79.867,United States,US,USA,South Carolina,,5940.0,1840014693
+Formoso,Formoso,-14.9469,-46.2319,Brazil,BR,BRA,Minas Gerais,,9688.0,1076230912
+Apatin,Apatin,45.6667,18.9833,Serbia,RS,SRB,Apatin,admin,,1688081748
+Ludlow,Ludlow,52.368,-2.718,United Kingdom,GB,GBR,Shropshire,,10266.0,1826562344
+Hoensbroek,Hoensbroek,50.9167,5.9333,Netherlands,NL,NLD,Limburg,,22740.0,1528148964
+São João Nepomuceno,Sao Joao Nepomuceno,-21.54,-43.0108,Brazil,BR,BRA,Minas Gerais,,26447.0,1076117412
+Gaithersburg,Gaithersburg,39.1346,-77.2132,United States,US,USA,Maryland,,67985.0,1840005848
+Wagoner,Wagoner,35.9641,-95.379,United States,US,USA,Oklahoma,,9185.0,1840021696
+Cresaptown,Cresaptown,39.5912,-78.855,United States,US,USA,Maryland,,5916.0,1840026620
+Virginia Beach,Virginia Beach,36.7335,-76.0435,United States,US,USA,Virginia,,1478868.0,1840003871
+Cruz,Cruz,-2.9178,-40.1719,Brazil,BR,BRA,Ceará,,24977.0,1076550734
+Maina,Maina,13.4692,144.7332,Guam,GU,GUM,,,122411.0,1316874021
+Hillsdale,Hillsdale,41.9266,-84.6356,United States,US,USA,Michigan,,11223.0,1840003252
+Sveio,Sveio,59.5736,5.3633,Norway,NO,NOR,Hordaland,minor,5766.0,1578821046
+Phon,Phon,15.816,102.5998,Thailand,TH,THA,Khon Kaen,minor,11593.0,1764718749
+Ajacuba,Ajacuba,20.0833,-99.1167,Mexico,MX,MEX,Hidalgo,,17055.0,1484132188
+Alcorcón,Alcorcon,40.35,-3.8333,Spain,ES,ESP,Madrid,,172384.0,1724318578
+Phra Samut Chedi,Phra Samut Chedi,13.5934,100.5801,Thailand,TH,THA,Samut Prakan,minor,13082.0,1764769560
+El Geneina,El Geneina,13.45,22.44,Sudan,SD,SDN,West Darfur,admin,162981.0,1729642412
+Bloemfontein,Bloemfontein,-29.1,26.2167,South Africa,ZA,ZAF,Free State,primary,256185.0,1710495933
+Krimpen aan den IJssel,Krimpen aan den IJssel,51.92,4.6,Netherlands,NL,NLD,Zuid-Holland,minor,29376.0,1528654636
+Presidente Olegário,Presidente Olegario,-18.4178,-46.4178,Brazil,BR,BRA,Minas Gerais,,19627.0,1076631969
+Albertirsa,Albertirsa,47.24,19.6067,Hungary,HU,HUN,Pest,,12532.0,1348408587
+Fugangcun,Fugangcun,23.5899,116.5924,China,CN,CHN,Guangdong,,102012.0,1156010739
+West Bromwich,West Bromwich,52.519,-1.995,United Kingdom,GB,GBR,Sandwell,,77997.0,1826231773
+Boulemane,Boulemane,33.366,-4.733,Morocco,MA,MAR,Fès-Meknès,,7104.0,1504456116
+Lewistown,Lewistown,47.0514,-109.4524,United States,US,USA,Montana,,5987.0,1840019823
+Kittery,Kittery,43.0998,-70.7126,United States,US,USA,Maine,,9731.0,1840052873
+La Grandeza,La Grandeza,15.5333,-92.2333,Mexico,MX,MEX,Chiapas,minor,7057.0,1484377004
+Bad Langensalza,Bad Langensalza,51.1081,10.6467,Germany,DE,DEU,Thuringia,,17441.0,1276854476
+Villeurbanne,Villeurbanne,45.7667,4.8803,France,FR,FRA,Auvergne-Rhône-Alpes,,147712.0,1250002615
+Waldsee,Waldsee,49.3956,8.4406,Germany,DE,DEU,Rhineland-Palatinate,,5933.0,1276751455
+Shinfield,Shinfield,51.408,-0.947,United Kingdom,GB,GBR,Wokingham,,8136.0,1826735275
+Gonaïves,Gonaives,19.4456,-72.6883,Haiti,HT,HTI,Artibonite,admin,324043.0,1332384588
+São João da Boa Vista,Sao Joao da Boa Vista,-21.9689,-46.7978,Brazil,BR,BRA,São Paulo,,89027.0,1076459561
